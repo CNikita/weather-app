@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,b as o,j as s,d as c}from"./index-63ca37ca.js";const a={},n={class:"flex flex-col items-center p-6 text-5xl font-bold text-white"},r=c("span",{class:"text-xl pt-5"},"Такой страницы не существует :(",-1);function _(l,d){return t(),o("div",n,[s(" 404 "),r])}const i=e(a,[["render",_]]);export{i as default};
