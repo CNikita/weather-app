@@ -82,6 +82,7 @@ watch(cityName, (newValue) => {
   max-height: 50vh;
   overflow: scroll;
   background: #282828;
+  color: rgba(235, 235, 235, 0.64);
   padding: 5px;
   border-radius: 5px;
 }

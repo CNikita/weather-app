@@ -33,7 +33,7 @@ onMounted(() => {
   <div class="pt-2">
     <form class="flex gap-2" @submit.prevent="searchCoordinatesByCityName">
       <input
-        class="w-60 text-black px-2 py-1 rounded"
+        class="border w-60 text-black px-2 py-1 rounded"
         type="text"
         v-model="cityName"
         placeholder="Введите название города"

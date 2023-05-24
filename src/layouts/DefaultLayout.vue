@@ -14,7 +14,7 @@ onMounted(() => getSavedFavoriteCities())
   <header>
     <div class="w-full p-6">
       <RouterLink :to="{ name: 'Home' }">
-        <h1 class="text-2xl font-bold text-white">Weather App</h1>
+        <h1 class="text-2xl font-bold">Weather App</h1>
       </RouterLink>
       <SearchBar />
     </div>
